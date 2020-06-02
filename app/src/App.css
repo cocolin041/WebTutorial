@@ -1,0 +1,30 @@
+.App {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.App-question {
+  margin: 150px 0;
+}
+
+.App-question div {
+  margin: 30px 0;
+}
+
+.App-question button {
+  height: 30px;
+  border-radius: 50px;
+  border: 1px solid black;
+  font-weight: bold;
+}
+
+.App-answer button {
+  font-weight: bold;
+  border: 1px solid black;
+  margin: 0 5px;
+  border-radius: 25px;
+}
+
+.App-result {
+  margin: 150px 0;
+}
